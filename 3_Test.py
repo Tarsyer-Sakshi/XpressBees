@@ -13,7 +13,6 @@ import clip
 import re
 from matplotlib import pyplot as plt
 
-
 # Ensure compatibility with protobuf 3.20.x
 
 # Set your API key
